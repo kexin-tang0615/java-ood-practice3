@@ -1,0 +1,6 @@
+"Date", "Time", "Client ID", "Message", "Digital signature", "Verified", "Transactions status"
+"2019-08-10", "23:18:06.718", "1", "8353", "1038901945", "YES", "DEPOSIT_ACCEPTED"
+"2019-08-10", "23:18:06.718", "4", "6622", "113", "NO", "DEPOSIT_REJECTED"
+"2019-08-10", "23:18:06.719", "7", "27895", "635150298", "NO", "WITHDRAWAL_REJECTED"
+"2019-08-10", "23:18:06.719", "8", "27377", "391356463", "NO", "WITHDRAWAL_REJECTED"
+"2019-08-10", "23:18:06.723", "9", "28472", "2081591697", "NO", "DEPOSIT_REJECTED"
